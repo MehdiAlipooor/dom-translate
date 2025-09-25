@@ -1,0 +1,30 @@
+{
+	"common": {
+		"hello": "Hello",
+		"goodbye": "Goodbye",
+		"buttons": {
+			"submit": "Submit",
+			"cancel": "Cancel"
+		}
+	},
+	"pages": {
+		"home": {
+			"title": "Welcome to the Home Page",
+			"description": "This is the home page of our app."
+		},
+		"profile": {
+			"title": "Your Profile",
+			"info": {
+				"name": "Name",
+				"email": "Email"
+			}
+		}
+	},
+	"list": {
+		"one": "یک",
+		"two": "دو",
+		"three": "سه",
+		"four": "چهار",
+		"five": "یک"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"common": {
+		"hello": "سلام",
+		"goodbye": "خداحافظ",
+		"buttons": {
+			"submit": "ارسال",
+			"cancel": "لغو"
+		}
+	},
+	"pages": {
+		"home": {
+			"title": "به صفحه اصلی خوش آمدید",
+			"description": "این صفحه اصلی برنامه ما است."
+		},
+		"profile": {
+			"title": "پروفایل شما",
+			"info": {
+				"name": "نام",
+				"email": "ایمیل"
+			}
+		}
+	},
+	"list": {
+		"one": "یک",
+		"two": "یک",
+		"three": "یک",
+		"four": "یک",
+		"five": "یک"
+	}
+}
